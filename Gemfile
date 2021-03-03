@@ -17,3 +17,5 @@ group :test do
   gem 'minitest', '~> 5.14'
   gem 'simplecov', require: false
 end
+
+gem 'jose'
